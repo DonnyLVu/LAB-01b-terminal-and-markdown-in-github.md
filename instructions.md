@@ -1,3 +1,6 @@
+This was created before Danny Changed innstructions.md into README.md so sucks.
+
+
 1) First, you create a new repo for this while checking the box for the **README.ME**.
 2) Secondly, you should copy the code by pressing on code and then save the https://github.com/ whatever you named the repo, *click on the clipboard* then switch over to your terminal.
 3) Third, create the pathway  that you want the repo to get git clone into. **cd** into the pathway and use the command **git clone** and now you have the repo in your directory.
